@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/redesigned-umbrella/static/js/main.b10b505a.chunk.js",
+    "main.js.map": "/redesigned-umbrella/static/js/main.b10b505a.chunk.js.map",
+    "runtime-main.js": "/redesigned-umbrella/static/js/runtime-main.57965a01.js",
+    "runtime-main.js.map": "/redesigned-umbrella/static/js/runtime-main.57965a01.js.map",
+    "static/js/2.9b2c7042.chunk.js": "/redesigned-umbrella/static/js/2.9b2c7042.chunk.js",
+    "static/js/2.9b2c7042.chunk.js.map": "/redesigned-umbrella/static/js/2.9b2c7042.chunk.js.map",
+    "index.html": "/redesigned-umbrella/index.html",
+    "static/js/2.9b2c7042.chunk.js.LICENSE.txt": "/redesigned-umbrella/static/js/2.9b2c7042.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57965a01.js",
+    "static/js/2.9b2c7042.chunk.js",
+    "static/js/main.b10b505a.chunk.js"
+  ]
+}

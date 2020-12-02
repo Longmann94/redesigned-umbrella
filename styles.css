@@ -1,0 +1,13 @@
+body{
+  padding: 10%
+}
+
+.sent{
+  font-size: 2rem;
+  color: blue;
+}
+
+.received{
+  font-size: 2rem;
+  color: red;
+}
